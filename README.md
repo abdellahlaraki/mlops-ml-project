@@ -53,3 +53,7 @@ Workflow recommandé : `main` pour la version stable, `dev` pour l'intégration 
 5. Fusionnez `dev` vers `main`, puis poussez le tag `v0.1.0`.
 
 Le compte rendu fourni contient les preuves locales. Ajoutez vos captures authentiques de la Pull Request et de la release GitHub avant le dépôt final si elles sont exigées.
+
+## Amélioration du prétraitement
+
+Le pipeline applique une imputation médiane, une standardisation et un clipping des valeurs entre -3 et 3.
