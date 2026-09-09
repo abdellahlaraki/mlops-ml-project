@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Donnees et artefacts geres hors de Git
+data/*
+!data/README.md
+artifacts/*
+!artifacts/README.md
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
