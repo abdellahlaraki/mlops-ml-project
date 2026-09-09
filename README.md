@@ -54,6 +54,6 @@ Workflow recommandé : `main` pour la version stable, `dev` pour l'intégration 
 
 Le compte rendu fourni contient les preuves locales. Ajoutez vos captures authentiques de la Pull Request et de la release GitHub avant le dépôt final si elles sont exigées.
 
-# Atelier 2 - Mini-projet ML & Git
+## Amélioration du prétraitement
 
 Le pipeline applique une imputation médiane, une standardisation et un clipping des valeurs entre -3 et 3.
